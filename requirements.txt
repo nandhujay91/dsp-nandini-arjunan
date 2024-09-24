@@ -1,0 +1,6 @@
+# This project is implemented with Python 3.10
+flake8==7.1.1
+jupyter==1.1.1
+pandas==2.2.2
+pyarrow==17.0.0
+scikit-learn==1.5.2
